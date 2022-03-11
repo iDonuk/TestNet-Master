@@ -1,0 +1,15 @@
+[workspace]
+members = [
+    "account-decoder",
+    "accounts-bench",
+    "accounts-cluster-bench",
+    "accountsdb-plugin-interface",
+    "accountsdb-plugin-manager",
+    "accounts-cluster-bench",
+    "bench-streamer",
+    "bench-tps",
+    "accounts-bench",
+    "banking-bench",
+    "banks-client",
+    "banks-interface",
+    "banks-server",
